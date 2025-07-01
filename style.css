@@ -9,12 +9,12 @@ header {
     border-bottom: solid 2px slategray 2px;
 padding: 20px;
 font-size: 30px;
-color: black;
+color: azure;
 
 }
 
 section {
-    background-color: mintcream;
+    background-color: rgb(143, 153, 241);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
